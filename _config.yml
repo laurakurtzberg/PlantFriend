@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Plot Garden seeks to use data to help people garden, without losing site of
   the fundamentally slow, even spiritual, quality of interacting with plants.
   Gardening can be therapeutic, but the use of technology often forgoes the personal
-  journey in favor of fast solutions. 
+  journey in favor of fast solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: laurakurtzberg
