@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   the fundamentally slow, even spiritual, quality of interacting with plants.
   Gardening can be therapeutic, but the use of technology often forgoes the personal
   journey in favor of fast solutions.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /PlotGarden # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: laurakurtzberg
 github_username:  laurakurtzberg
