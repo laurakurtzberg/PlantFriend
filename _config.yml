@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Plot Garden
+title: Plant Friend
 email: laura.kurtzberg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Plot Garden seeks to use data to help people garden, without losing site of
+  Plant Friend seeks to use data to help people garden, without losing site of
   the fundamentally slow, even spiritual, quality of interacting with plants.
-  Gardening can be therapeutic, but the use of technology often forgoes the personal
-  journey in favor of fast solutions.
-baseurl: /PlotGarden # the subpath of your site, e.g. /blog
+baseurl: /PlantFriend # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: laurakurtzberg
 github_username:  laurakurtzberg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Researching How to Set Up Node.js on Small Orange Hosting"
+title:  "Researching How to Set Up a Node.js app on Heroku"
 date:   2018-03-01 11:45:26 -0500
 author: Laura J Kurtzberg
 categories: blogpost
