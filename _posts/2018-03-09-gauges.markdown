@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Real Time Gauges Component"
+date:   2018-03-01 11:45:26 -0500
+author: Laura J Kurtzberg
+categories: blogpost
+---
+
+Gauges component
+================
+
+There are two versions of the gauges component. In the first, real time gauge visualizations update whenever each sensor records a new value. The gauges are animated with svg so that they adjust in real time to the status of the plant's environment. If the user moves the plant into the sun, that action will be immediately reflected on the UV Light gauge.
+
+These gauges make use of Socket.io and Node.js to push an immediate update every few seconds when a non-null value is received from a call to each of the sensor's API. The incoming value is configured as a 'message' in socket.io, and then relayed to an update function for each of the gauges.
+
+![Real time gauges on desktop]({{ "/img/gauges.png" | absolute_url }})
+
+In the second version, the gauges work even when the sensors aren't currently plugged in to a houseplant or they are disconnected from the Internet.
+This version draws data from the spreadsheet datasets from past collection of data. Each row of each sensor dataset in the spreadsheets is read using tabletop.js and then the corresponding value is pushed to the gauge update function at regular intervals so that the updating action can be observed, even if the
+real-time functionality isn't on.

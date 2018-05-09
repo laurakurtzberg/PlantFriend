@@ -43,6 +43,15 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+#leaficon {
+  background-image: url("img/PF-icon.png");
+  width: 60px;
+  height: 60px;
+  background-position: center;
+  background-repeat: none;
+  background-size: contain;
+}
+
 // Import partials.
 @import
   "minima/base",

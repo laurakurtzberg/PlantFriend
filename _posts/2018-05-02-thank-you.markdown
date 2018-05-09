@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "A Big Thank You!"
+date:   2018-05-02 11:45:26 -0500
+author: Laura J Kurtzberg
+categories: blogpost
+---
+
+Thank You!
+----------
+
+Thank you to all of the professors and peers at the University of Miami School of Communication, especially to the cohort of 2018 and the entire
+Interactive Media MFA program! This project is dedicated to all of you! At the conclusion of this capstone project, and therefore of my journey along the path to this masters degree, I must thank some key people who helped make this possible.
+
+Thank you, professor Alberto Cairo, for setting an example through your pursuit of excellence in both teaching and professional practice. Your insights
+on visualization and presenting truthful information (and your books) will continue on with me when I graduate!
+
+Thank you to professor Clay Ewig and Lien Tran for advising me throughout my two years at University of Miami, and for making the community of NERDLab a reality.
+
+Thank you sincerely to Dr.Michelle Seelig for overseeing this project and always lending an encouraging voice, full of ideas for the real impact our
+projects could have in the world if we seek to pursue change.
+
+Thanks, professor Kim Grinfeder, for warning me it wouldn't be easy when I first visited campus, and for telling me it would get easier when I needed
+to hear it. Thanks also for coming up with so many ideas that always made me think of new projects to start.
+
+Thank you to both professor Lien Tran and Dr.Barbara Millet for teaching me about Human Centered Design and UX Research!
+
+
+Summary of the Capstone project
+===============================
+
+For people hoping to coexist among plants, but lacking a green thumb, 'smart' gardening has stepped in to help keep plants alive and thriving. From automatic watering devices to mobile apps that keep track of your plants while you travel, technology is expanding in the world of personal urban gardening. Plot Garden seeks to use data to help people garden, without losing site of the fundamentally slow, even spiritual, quality of interacting with plants. Gardening can be therapeutic, but the use of technology often forgoes the personal journey in favor of fast solutions. Plot Garden will consist of two parts - the automated collection of data from a personal garden, and the expression of that data through a web platform that will use information design to monitor the health of the garden, as well as the relationship between plants and gardener. In this way, the user will create a continuously updated work of data art through their gardening.
